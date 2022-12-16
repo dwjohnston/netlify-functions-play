@@ -1,0 +1,11 @@
+{
+  "name": "netlify-functions-play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dwjohnston/netlify-functions-play.git",
+  "author": "David Johnston <djohnston@cydarm.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@netlify/functions": "^1.3.0"
+  }
+}
